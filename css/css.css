@@ -215,7 +215,10 @@
    
     }
     
-     
+     ul li a img{
+        height="100%";
+       width="100%";
+        }
     .footer{
       width: 100%;
       background-color: #A84448;

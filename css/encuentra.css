@@ -158,6 +158,10 @@ a{
   .footer .footer1 .red-social a:hover{
     background-color: rgb(80, 80, 235);
 }
+.red-social a img {
+      height: 16px;
+      width: 16px;
+    }
   li{
     list-style: none;
 }
